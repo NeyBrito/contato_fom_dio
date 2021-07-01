@@ -13,8 +13,8 @@ class ContatoDrawer extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountEmail: Text('thiago@gmail.com'),
-            accountName: Text('Thiago'),
+            accountEmail: Text('ney.brito@etec.sp.gov.br'),
+            accountName: Text('Ney Brito'),
             currentAccountPicture: CircleAvatar(
               backgroundColor: Colors.white,
               child: Text(
